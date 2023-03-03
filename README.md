@@ -37,7 +37,7 @@ Data:
 
 
 # Objective
-we make many plots and relation for this data by using python such as: 
+we will  make many plots and relations for this data by using python such as: 
 
 - Movies with highest Gross
 - Distributions of IMBD movies from 1920 -2018
@@ -48,11 +48,17 @@ we make many plots and relation for this data by using python such as:
 # Steps :
 
 1- Import librarries
+
 2- Read dataset
+
 3- Get information about data
+
 4- Deleting Un Necessary Columns
+
 5- Data cleaning
+
 6- Data visualization & getting conclusions
+
 
 
 
